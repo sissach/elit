@@ -1,0 +1,9 @@
+
+{
+  "name": "Elit Coiff - Saint-Louis",
+  "description": "Salon de coiffure d'exception à Saint-Louis. Expertise, style et soins capillaires haut de gamme.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
